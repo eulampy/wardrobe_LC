@@ -95,5 +95,5 @@ void loop() {
 		P4_ADC2_value = 0;
 	}
 
-	delay(52);	// 
+	delay(52);	// comment
 }
